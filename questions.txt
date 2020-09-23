@@ -1,42 +1,38 @@
-Who sang "Rocky Mountain High"?
-In which horror movie was "Rocky Mountain High" was the song repeatedly use to announce the arrival of death?
-Where is Alex Browning going for his class trip?
-What does Alex have premonitions of?
-Where is Alex when is quaking with premonitions?
-What is Alex seized by when he is on the plane?
-What does Alex scream when he snaps out of his nightmare?
-What do the disaster and Alex's premonitions set up?
-Who is in a major snit?
-Who sets about picking off Alex's friends?
-What genre is "Final Destination"?
+how many drone missions have been reported by pentagon from 2011 to 2017?\t11 total domestic missions\t440
+what was the increase in the domestic drone missions in the year of 2018 when compared to 2011 to 2017?\ttotal doubled, with 11 domestic missions flown by military drones.\t492
+On which country did the department of defense has flown the drones?\tthe UnitedStates\t344
+In which month of 2018 did the department of defense published its statistics?\tJan\t562
+What drones were used by the department of defense?\teverything from MQ-9 Reapers down to DJI Phantoms\t656
+what are the iconic symbols of the war abroad?\tThe Pentagon's drones\t0
 
-When did interest in natural language processing begin?
-Who published the paper entitled "Computing Machinery and Intelligence"?
-From which paper did the Turing test emerge?
-When could a computer be considered intelligent according to Turing?
-What is the goal of natural language processing?
-In which movies was the interation between humans and computers popularized?
-What are the abilities of natural language processing?
-What according to Marc Maxson will be the most useful data in the future?
-The future of what is neither structured nor unstructured?
-By what will big data be structured?
-
-how many drone missions have been reported by pentagon from 2011 to 2017?
-what was the increase in the domestic drone missions in the year of 2018 when compared to 2011 to 2017?
-On which country did the department of defense has flown the drones?
-In which month of 2018 did the department of defense published its statistics?
-What drones were used by the department of defense?
-what are the iconic symbols of the war abroad?
-"For the most part, the missions of those drones have remained abroad." True or False?
-
-what are the most striking features of of SARS-CoV-2?
-How many people are infected by covid-19 to date?
-how many people in the world died due to covid-19?
-how many people in the united states died due to covid-19?
-which virus causes covid-19?
-what are the symptoms of covid-19?
+what are the most striking features of of SARS-CoV-2?\tthe exceptional breadth of symptoms it causes in people. Of the nearly 30 million recorded infections to date, the vast majority of people experienced mild or moderate disease - which itself can range from no symptoms at all to pneumonia or long-term, debilitating neurological symptoms.\t84
+How many people are infected by covid-19 to date?\tnearly 30 million recorded infections to date\t148
+how many people in the world died due to covid-19?\tnearly 940,000 worldwide\t462
+how many people in the united states died due to covid-19?\t196,000\t497
+which virus causes covid-19?\tSARS-CoV-2\t37
+what are the symptoms of covid-19?\trange from no symptoms at all to pneumonia or long-term, debilitating neurological symptoms. A minority ended up with severe respiratory symptoms\t279
 does symptoms of covid-19 include severe respiratory problems?
-from which diseases are the researchers drawing additional information?
+from which diseases are the researchers drawing additional information?\tsepsis, cancer, and autoimmune disease\t1527
 
+Who sang "Rocky Mountain High"?\tJohn Denver\t22
+In which horror movie was "Rocky Mountain High" was the song repeatedly use to announce the arrival of death?\tFinal Destination\t126
+Where is Alex Browning going for his class trip?\tParis\t513
+What does Alex have premonitions of?\tdisaster\t586
+Where is Alex when is quaking with premonitions?\ton the plane\t761
+What is Alex seized by when he is on the plane?\ta fantasy (the movie's scariest scene) in which the aircraft, seconds after takeoff, shudders with a death rattle as an explosion rips through the cabin, creating pandemonium\t793
+What does Alex scream when he snaps out of his nightmare?\tthe plane is going to crash\t1038
+What do the disaster and Alex's premonitions set up?\theavy-handed fable about death and teenage illusions of invulnerability\t1393
+Who is in a major snit?\tthe Grim Reaper\t1536
+Who sets about picking off Alex's friends?\tthe Grim Reaper\t1536
+What genre is "Final Destination"?\tteenage horror\t1759
 
-
+When did interest in natural language processing begin?\t1950\t66
+Who published the paper entitled "Computing Machinery and Intelligence"?\tAlan Turing\t76
+From which paper did the Turing test emerge?\tComputing Machinery and Intelligenc\t118
+When could a computer be considered intelligent according to Turing?\tif it could carry on a conversation with a human being without the human realizing they were talking to a machine\t277
+What is the goal of natural language processing?\tto allow that kind of interaction so that non-programmers can obtain useful information from computing systems\t435
+In which movies was the interation between humans and computers popularized?\tthe 1968 movie "2001: A Space Odyssey"\t591
+What are the abilities of natural language processing?\tto draw insights from data contained in emails, videos, and other unstructured material\t724
+What according to Marc Maxson will be the most useful data in the future?\tthe kind that was is too unstructured to be used in the past\t880
+The future of what is neither structured nor unstructured?\tneither structured nor unstructured. Big Data will be structured by intuitive methods (i.e., 'genetic algorithms'), or using inherent patterns that emerge from the data itself and not from rules imposed on data sets by humans\t1065
+By what will big data be structured?\tintuitive methods (i.e., 'genetic algorithms'), or using inherent patterns that emerge from the data itself and not from rules imposed on data sets by humans\t1133
