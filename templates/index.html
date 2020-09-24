@@ -4,7 +4,8 @@
     <title>Comprehension-inator!</title>
 </head>
 <body>
-<form class="form-horizontal">
+    <form class="form-horizontal" method="post" action="" novalidate>
+    <!--{{ form.hidden_tag() }}-->
     <fieldset>
 
         <!-- Form Name -->
@@ -14,7 +15,8 @@
         <div class="form-group">
             <label class="col-md-4 control-label" for="query">Query</label>  
             <div class="col-md-4">
-                <input id="query" name="query" type="text" placeholder="Your question?" class="form-control input-md" required="">
+                {{ form.query(placeholder="Your question?", class="form-control input-md") }}
+                <!-- <input id="query" name="query" type="text" placeholder="Your question?" class="form-control input-md" required=""> -->
             </div>
         </div>
 
@@ -22,7 +24,9 @@
         <div class="form-group">
             <label class="col-md-4 control-label" for="context">Context</label>  
             <div class="col-md-6">
-                <input id="context" name="context" type="text" placeholder="Context Please!" class="form-control input-md" required="">
+                {{ form.context(placeholder="Paragraph Here!", class="form-control input-md") }}
+
+                <!-- <input id="context" name="context" type="text" placeholder="Context Please!" class="form-control input-md" required=""> -->
             </div>
         </div>
 
@@ -30,12 +34,22 @@
         <div class="form-group">
             <label class="col-md-4 control-label" for="input"></label>
             <div class="col-md-4">
-                <button id="input" name="input" class="btn btn-primary">Compute</button>
+                {{ form.submit(class="btn btn-primary") }}
+                <!--<button id="input" name="input" class="btn btn-primary">Compute</button>-->
             </div>
         </div>
 
     </fieldset>
 </form>
+
+<div id="answer">
+    <center>
+    <p>
+        Answer: {{ answer.val }} <br>
+        {{ answer.time }}
+    </p>
+    </center>
+</div>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <!-- Latest compiled and minified JavaScript -->
