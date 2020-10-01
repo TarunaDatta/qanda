@@ -1,5 +1,5 @@
 # qanda
-Question Answering Interface created for the purpose of the Lincode Hackathon
+Question Answering Interface created with Flask and HuggingFace's transformers
 
 ## Dataset
 
